@@ -9,10 +9,10 @@ Use the [README-Template.md](https://gist.github.com/interactorsolutions/Best-Pr
 
 ## Branch
 
-Create separate branch each Interactor release used.  
+Create separate branch for each Interactor release used.  
 Example, if you created the solution using Interactor release 4.3.1  
 Create a branch called 4.3.1.  
-That way when your solution gets updated to later Interactor versioin, you also have configurations available for previous Interactors.
+That way when your solution gets updated to later Interactor version, you also have configurations available for previous Interactors.
 
 ## Topics
 
