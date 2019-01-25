@@ -2,7 +2,7 @@
 
 This guide is provided to Interactor developers who wish to share their solution.
 
-# README
+## README
 
 README.md is used as the documentation for your solution.
 Use the [README-Template.md](https://gist.github.com/interactorsolutions/Best-Practice-and-Guideline/README-Template.md) for consistant documentation experience.
